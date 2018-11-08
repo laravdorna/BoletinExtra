@@ -1,5 +1,7 @@
 /*
  * ejercicio extra que calcula la nota media para clase de programacion
+
+prueba f para clase de desenvolvimiento de contornos
  */
 package calculadoranotamedia;
 
