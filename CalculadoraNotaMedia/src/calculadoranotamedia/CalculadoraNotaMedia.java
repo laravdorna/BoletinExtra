@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * ejercicio extra que calcula la nota media para clase de programacion
  */
 package calculadoranotamedia;
 
